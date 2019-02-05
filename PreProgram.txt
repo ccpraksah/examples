@@ -1,0 +1,20 @@
+23rd Nov 2011:
+--------------------------------------------------------------------------------------------------------
+Module 1 : Session 2:
+
+->Variable declaration, Variable definition.
+->NetBeans ->Ctrl+Shift+i =>to import the packages.
+
+---------------------------------------------------------------------------------------------------------
+Algorithms: 
+https://techdifferences.com/difference-between-bubble-sort-and-selection-sort.html
+https://www.toptal.com/developers/sorting-algorithms
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html
+https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_asymptotic_notations_apriori.htm
+http://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm
+https://www.topcoder.com/community/competitive-programming/tutorials/the-importance-of-algorithms/
+
+Student Mentor:
+christien.a@upgrad.com
+8928493304
