@@ -6,6 +6,26 @@ Module 1 : Session 2:
 ->NetBeans ->Ctrl+Shift+i =>to import the packages.
 
 ---------------------------------------------------------------------------------------------------------
+Student Mentor:
+christien.a@upgrad.com
+8928493304
+Bits:
+https://www.upgrad.com/
+Anjali Rawat <anjali.r@upgrad.com>	-->Admissions Counselor
+Mobile: +91-7400029954
+
+Raghav Swarna
+m  +91-998-775-9219					-->Chief Admissions Counsellor
+raghavendra.s@upgrad.com | https://www.upgrad.com/ 
+
+ pgp-bde@upgrad.com	-->Program related communication
+
+****************************************************************************************************************************************
+Applicant Id: BDEC501295
+Mail: poshgadu@gmail.com
+PRAK428 -->for getting discount coupons
+
+****************************************************************************************************************************************
 Algorithms: 
 https://techdifferences.com/difference-between-bubble-sort-and-selection-sort.html
 https://www.toptal.com/developers/sorting-algorithms
@@ -15,6 +35,19 @@ https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_anal
 http://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm
 https://www.topcoder.com/community/competitive-programming/tutorials/the-importance-of-algorithms/
 
-Student Mentor:
-christien.a@upgrad.com
-8928493304
+https://www.youtube.com/watch?v=YJ7LHaCvaqw
+https://www.programiz.com/dsa/heap-sort
+http://btechsmartclass.com/DS/U4_T5.html	-->heap sort
+https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
+http://web.stanford.edu/class/cs161/CS161Lecture06.pdf		-->Data Structures.
+http://web.stanford.edu/class/cs161/CS161Lecture07.pdf		-->HashTables
+http://www.opentextbookstore.com/precalc/	-->Precalculus
+https://eng.uber.com/uber-big-data-platform/	-->ubder platform/
+https://en.wikipedia.org/wiki/Open_addressing	        
+https://www.cs.cmu.edu/~avrim/451f11/lectures/lect0922.pdf		-->amortized cost
+https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction  -->amortized cost
+https://youtu.be/3MpzavN3Mco 	-->amortized cost
+https://stackoverflow.com/questions/15079327/amortized-complexity-in-laymans-terms -->amortized cost
+http://www.cs.princeton.edu/courses/archive/spr06/cos423/Handouts/Amortized.pdf	-->amortiezed cost
+https://cs.stackexchange.com/questions/35419/does-amortized-complexity-always-equal-to-worst-case-complexity-divided-by-n	-->amortized cost
+
