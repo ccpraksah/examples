@@ -14,8 +14,8 @@ import java.util.concurrent.Future;
 public class Driver {
 
 	public static List<String> INPUT_FILE_PATHS = Arrays.asList(new String[] {
-			"/Users/PrakashC/eclipse-workspace/BitsActuals/src/data/randomtext_1.txt",
-			"/Users/PrakashC/eclipse-workspace/BitsActuals/src/data/randomtext_2.txt"});
+			"C:/Users/PrakashC/eclipse-workspace/BitsActuals/src/data/randomtext_1.txt",
+			"C:/Users/PrakashC/eclipse-workspace/BitsActuals/src/data/ramdomtext_2.txt"});
 	
 	public static void main(String[] args) {
 		
