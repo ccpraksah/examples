@@ -53,4 +53,4 @@ https://cs.stackexchange.com/questions/35419/does-amortized-complexity-always-eq
 https://www.youtube.com/watch?time_continue=1612&v=08sq0y8V1sE -->aadhar database very good one
 https://www.geeksforgeeks.org/hashing-set-3-open-addressing/ -->open addressing and hashing
 http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/open-addr.html
-https://www.domcop.com/top-10-million-domains -->1o million records os data
+https://www.domcop.com/top-10-million-domains -->1o million records os data(uploaded to prakkigadu google drive)
