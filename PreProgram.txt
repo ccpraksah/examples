@@ -53,4 +53,12 @@ https://cs.stackexchange.com/questions/35419/does-amortized-complexity-always-eq
 https://www.youtube.com/watch?time_continue=1612&v=08sq0y8V1sE -->aadhar database very good one
 https://www.geeksforgeeks.org/hashing-set-3-open-addressing/ -->open addressing and hashing
 http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/open-addr.html
-https://www.domcop.com/top-10-million-domains -->1o million records os data(uploaded to prakkigadu google drive)
+https://www.domcop.com/top-10-million-domains -->1o million records of data(uploaded to prakkigadu google drive)
+HashCode Implementations:
+------------------------
+http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html
+https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
+https://www.quora.com/Why-HashMap-not-allowing-duplicate-keys-How-it-is-stored/answer/%E0%A4%95%E0%A5%83%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%B5-Kripal-Gaurav?share=0b9667f6&srid=nDKq
+https://javarevisited.blogspot.com/2012/12/how-to-sort-hashmap-java-by-key-and-value.html
+https://javarevisited.blogspot.com/2011/12/how-to-traverse-or-loop-hashmap-in-java.html
+https://www.sitepoint.com/how-to-implement-javas-hashcode-correctly/
