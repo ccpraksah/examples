@@ -62,3 +62,9 @@ https://www.quora.com/Why-HashMap-not-allowing-duplicate-keys-How-it-is-stored/a
 https://javarevisited.blogspot.com/2012/12/how-to-sort-hashmap-java-by-key-and-value.html
 https://javarevisited.blogspot.com/2011/12/how-to-traverse-or-loop-hashmap-in-java.html
 https://www.sitepoint.com/how-to-implement-javas-hashcode-correctly/
+
+Bloom Filter:
+-------------
+http://pages.cs.wisc.edu/~cao/papers/summary-cache/node8.html
+https://hur.st/bloomfilter/?n=4000&p=1.0E-7&m=1024&k=
+https://llimllib.github.io/bloomfilter-tutorial/
