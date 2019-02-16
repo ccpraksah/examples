@@ -54,6 +54,7 @@ https://www.youtube.com/watch?time_continue=1612&v=08sq0y8V1sE -->aadhar databas
 https://www.geeksforgeeks.org/hashing-set-3-open-addressing/ -->open addressing and hashing
 http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/open-addr.html
 https://www.domcop.com/top-10-million-domains -->1o million records of data(uploaded to prakkigadu google drive)
+https://www.cs.uky.edu/~jzhang/CS621/chapter7.pdf -->parllel programming
 HashCode Implementations:
 ------------------------
 http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html
