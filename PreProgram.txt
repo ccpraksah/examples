@@ -73,3 +73,10 @@ https://llimllib.github.io/bloomfilter-tutorial/
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 https://learn.upgrad.com/v/course/244/session/23868/segment/122280 -->collision Resolution
+
+******************************************************************************************************************************
+ Collision Resoultion -->linear probing, quadratic probing, double hashing...
+******************************************************************************************************************************
+https://www.gatevidyalay.com/collision-resolution-techniques-separate-chaining/
+https://www.gatevidyalay.com/open-addressing-collision-resolution-techniques/
+https://www.gatevidyalay.com/separate-chaining-open-addressing-comparison/
