@@ -80,3 +80,12 @@ https://learn.upgrad.com/v/course/244/session/23868/segment/122280 -->collision 
 https://www.gatevidyalay.com/collision-resolution-techniques-separate-chaining/
 https://www.gatevidyalay.com/open-addressing-collision-resolution-techniques/
 https://www.gatevidyalay.com/separate-chaining-open-addressing-comparison/
+
+******************************************************************************************************************************
+ Non Linear data structures(BST,KDT)
+******************************************************************************************************************************
+https://salzis.wordpress.com/2014/06/28/kd-tree-and-nearest-neighbor-nn-search-2d-case/
+https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/
+http://interactivepython.org/runestone/static/pythonds/Trees/AVLTreeImplementation.html
+https://www.cise.ufl.edu/~sahni/dsaaj/enrich/c13/double.htm
+https://www.geeksforgeeks.org/how-to-handle-duplicates-in-binary-search-tree/
