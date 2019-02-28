@@ -94,3 +94,4 @@ https://www.geeksforgeeks.org/k-dimensional-tree/
 https://www.ri.cmu.edu/pub_files/pub1/moore_andrew_1991_1/moore_andrew_1991_1.pdf
 https://courses.cs.washington.edu/courses/cse373/02au/lectures/lecture22l.pdf
 https://en.wikipedia.org/wiki/K-d_tree#Construction
+https://courses.cs.washington.edu/courses/cse373/02au/lectures/lecture22l.pdf
