@@ -101,3 +101,14 @@ https://www.ri.cmu.edu/pub_files/pub1/moore_andrew_1991_1/moore_andrew_1991_1.pd
 https://courses.cs.washington.edu/courses/cse373/02au/lectures/lecture22l.pdf
 https://en.wikipedia.org/wiki/K-d_tree#Construction
 https://courses.cs.washington.edu/courses/cse373/02au/lectures/lecture22l.pdf
+******************************************************************************************************************************
+Some Interesting topics:
+******************************************************************************************************************************
+1. Keystone Real-time Stream Processing Platform
+https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a
+2. Kafka Inside Keystone Pipeline
+https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb
+3. Aegisthus is Now Part of NetflixOSS
+https://medium.com/netflix-techblog/aegisthus-is-now-part-of-netflixoss-a6364b254973
+4. Hadoop Platform as a Service in the Cloud
+https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7
