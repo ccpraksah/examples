@@ -112,3 +112,11 @@ https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb
 https://medium.com/netflix-techblog/aegisthus-is-now-part-of-netflixoss-a6364b254973
 4. Hadoop Platform as a Service in the Cloud
 https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7
+******************************************************************************************************************************
+ Distributed Systems
+******************************************************************************************************************************
+https://medium.freecodecamp.org/a-thorough-introduction-to-distributed-systems-3b91562c9b3c
+https://www.quora.com/What-are-some-characteristics-of-a-distributed-information-system
+http://ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf
+https://www.techopedia.com/definition/7407/gigabit-ethernet-gbe
+https://www.techopedia.com/definition/317/infiniband
