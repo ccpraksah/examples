@@ -121,3 +121,5 @@ http://ijcsit.com/docs/Volume%205/vol5issue04/ijcsit2014050420.pdf
 https://www.techopedia.com/definition/7407/gigabit-ethernet-gbe
 https://www.techopedia.com/definition/317/infiniband  
 https://backtobazics.com/big-data/hadoop/understanding-hadoop-1-x-architecture-and-its-demons/    -->Hadoop 1 architecture
+https://stackoverflow.com/questions/24993570/differnce-between-hadoop-1-and-hadoop-2
+https://www.techopedia.com/2/31276/trends/big-data/what-are-the-advantages-of-the-hadoop-20-yarn-framework
