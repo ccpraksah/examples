@@ -123,6 +123,17 @@ https://www.techopedia.com/definition/317/infiniband
 https://backtobazics.com/big-data/hadoop/understanding-hadoop-1-x-architecture-and-its-demons/    -->Hadoop 1 architecture
 https://stackoverflow.com/questions/24993570/differnce-between-hadoop-1-and-hadoop-2
 https://www.techopedia.com/2/31276/trends/big-data/what-are-the-advantages-of-the-hadoop-20-yarn-framework
+******************************************************************************************************************************
+ HDFS Architecture
+******************************************************************************************************************************
+
+https://www.quora.com/What-is-the-difference-between-a-standby-NameNodes-and-a-secondary-NameNode-Does-the-new-Hadoop-with-YARN-have-a-secondary-NameNode
+https://hortonworks.com/blog/an-introduction-to-hdfs-federation/
+https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
+https://www.quora.com/What-is-NameNode-in-Hadoop
+https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/
+https://www.quora.com/What-do-you-understand-by-Safe-Mode-in-Hadoop-1
+
 ************************************************************************************************************************************
     Books
 *************************************************************************************************************************************
