@@ -2,6 +2,8 @@ Books:
 -------------------------------------------------------------------------------------------------------
 Algorithm Design: 
 Kleinberg &
+
+https://www.amazon.in/Mining-Massive-Datasets-Jure-Leskovec-ebook/dp/B00N4PM7QI
 -------------------------------------------------------------------------------------------------------
 
 23rd Nov 2011:
@@ -25,6 +27,8 @@ m  +91-998-775-9219					-->Chief Admissions Counsellor
 raghavendra.s@upgrad.com | https://www.upgrad.com/ 
 
  pgp-bde@upgrad.com	-->Program related communication
+ 
+ Hue:Local Installation: cloudera/cloudera(username/pwd)
 
 ****************************************************************************************************************************************
 Applicant Id: BDEC501295
@@ -134,8 +138,3 @@ https://www.quora.com/What-is-NameNode-in-Hadoop
 https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/
 https://www.quora.com/What-do-you-understand-by-Safe-Mode-in-Hadoop-1
 https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html -->hdfs file system commands
-
-************************************************************************************************************************************
-    Books
-*************************************************************************************************************************************
-https://www.amazon.in/Mining-Massive-Datasets-Jure-Leskovec-ebook/dp/B00N4PM7QI
