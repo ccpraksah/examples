@@ -133,6 +133,7 @@ https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
 https://www.quora.com/What-is-NameNode-in-Hadoop
 https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/
 https://www.quora.com/What-do-you-understand-by-Safe-Mode-in-Hadoop-1
+https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html -->hdfs file system commands
 
 ************************************************************************************************************************************
     Books
