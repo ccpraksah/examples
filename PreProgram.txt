@@ -116,6 +116,7 @@ https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb
 https://medium.com/netflix-techblog/aegisthus-is-now-part-of-netflixoss-a6364b254973
 4. Hadoop Platform as a Service in the Cloud
 https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7
+5. https://en.wikipedia.org/wiki/Letter_frequency#Relative_frequencies_of_the_first_letters_of_a_word_in_the_English_language -->real time processing of frequency of letters
 ******************************************************************************************************************************
  Distributed Systems
 ******************************************************************************************************************************
@@ -139,3 +140,4 @@ https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/
 https://www.quora.com/What-do-you-understand-by-Safe-Mode-in-Hadoop-1
 https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html -->hdfs file system commands
 https://www.linkedin.com/pulse/why-hadoop-does-use-java-serialization-process-amit-akela/  ->java serialization vs hadoop serialization
+https://www.cloudera.com/documentation/enterprise/5-5-x/topics/cdh_ig_ports_cdh5.html -->Port nos for different services in Hadoop
