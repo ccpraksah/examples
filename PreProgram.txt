@@ -36,6 +36,11 @@ Mail: poshgadu@gmail.com
 PRAK428 -->for getting discount coupons
 
 ****************************************************************************************************************************************
+   Inputs:
+****************************************************************************************************************************************
+ https://www.gutenberg.org/files/11/11-0.txt  -->alice input for big data program.
+****************************************************************************************************************************************
+
 Algorithms: 
 https://techdifferences.com/difference-between-bubble-sort-and-selection-sort.html
 https://www.toptal.com/developers/sorting-algorithms
