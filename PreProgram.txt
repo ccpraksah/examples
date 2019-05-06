@@ -39,6 +39,9 @@ PRAK428 -->for getting discount coupons
    Inputs:
 ****************************************************************************************************************************************
  https://www.gutenberg.org/files/11/11-0.txt  -->alice input for big data program.
+ https://s3.amazonaws.com/page-rank-dataset/pr1.txt     -->data set 1 for platform for bigdata module 4 session 5
+https://s3.amazonaws.com/page-rank-dataset/snetwork.txt -->data set 2 for platform for bigdata module 4 session 5
+
 ****************************************************************************************************************************************
 
 Algorithms: 
