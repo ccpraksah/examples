@@ -155,3 +155,8 @@ https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSyst
 https://www.linkedin.com/pulse/why-hadoop-does-use-java-serialization-process-amit-akela/  ->java serialization vs hadoop serialization
 https://www.cloudera.com/documentation/enterprise/5-5-x/topics/cdh_ig_ports_cdh5.html -->Port nos for different services in Hadoop
 https://www.bogotobogo.com/Hadoop/ --->hadoop installation on ubuntu
+
+*****************************************************************************************************************************
+       Algorithms
+*****************************************************************************************************************************
+https://nitinbhojwani-tech-talk.blogspot.com/2018/12/decaying-window-algorithm.html -->decay window algorithm
