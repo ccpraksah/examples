@@ -161,3 +161,4 @@ https://www.bogotobogo.com/Hadoop/ --->hadoop installation on ubuntu
 *****************************************************************************************************************************
 https://nitinbhojwani-tech-talk.blogspot.com/2018/12/decaying-window-algorithm.html -->decay window algorithm
 http://www.ques10.com/p/2874/define-a-decaying-window-and-explain-how-finding-1/
+http://julesjacobs.github.io/2015/05/06/exponentially-decaying-likes.html
