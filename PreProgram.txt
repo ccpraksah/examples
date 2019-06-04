@@ -169,4 +169,11 @@ Saavn Projecct
 https://s3.amazonaws.com/mapreduce-project-bde/part-00000  --->44 GB main data input file
  https://s3.amazonaws.com/mapreduce-project-bde/trending_data_daily.csv -->saavn company output file
  https://s3.amazonaws.com/mapreduce-project-bde/saavn_sample_data.txt -->sample data to test 10 million records
-
+*****************************************************************************************************************************
+Spark
+*****************************************************************************************************************************
+Functional Programming:
+https://en.wikipedia.org/wiki/Functional_programming
+http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+https://en.wikipedia.org/wiki/Imperative_programming
+https://en.wikipedia.org/wiki/Procedural_programming
