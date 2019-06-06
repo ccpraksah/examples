@@ -177,3 +177,15 @@ https://en.wikipedia.org/wiki/Functional_programming
 http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 https://en.wikipedia.org/wiki/Imperative_programming
 https://en.wikipedia.org/wiki/Procedural_programming
+*****************************************************************************************************************************
+Functional Programmig
+*****************************************************************************************************************************
+
+https://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html
+https://docs.oracle.com/javase/8/docs/api/?java/util/stream/Stream.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+https://docs.oracle.com/javase/8/docs/api/?java/util/stream/Stream.html
+https://www.baeldung.com/java-8-functional-interfaces
+https://www.geeksforgeeks.org/default-methods-java/
+https://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html
+http://www.lambdafaq.org/are-lambda-expressions-objects/
