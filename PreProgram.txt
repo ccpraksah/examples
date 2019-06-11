@@ -201,3 +201,7 @@ https://www.youtube.com/watch?v=0MEt7CHeFzE
 https://www.level-up.one/big-companies-using-apache-spark/
 https://blog.cloudera.com/blog/2014/05/apache-spark-resource-management-and-yarn-app-models/
 https://www.quora.com/Processor-Architecture-What-is-the-difference-between-32-bit-and-64-bit-CPUs-How-does-the-performance-increase-for-64-bit-CPUs
+https://www.quora.com/What-is-the-difference-between-seek-time-and-latency
+https://www.youtube.com/watch?v=0MEt7CHeFzE
+https://spark.apache.org/docs/latest/sql-programming-guide.html#creating-datasets
+https://www.javatpoint.com/Comparator-interface-in-collection-framework
