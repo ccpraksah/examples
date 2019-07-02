@@ -205,3 +205,25 @@ https://www.quora.com/What-is-the-difference-between-seek-time-and-latency
 https://www.youtube.com/watch?v=0MEt7CHeFzE
 https://spark.apache.org/docs/latest/sql-programming-guide.html#creating-datasets
 https://www.javatpoint.com/Comparator-interface-in-collection-framework
+---------------------------------------------------------------------------------------------------------------------------------
+Course 4
+Processing Big Data: ETL & Batch Processing
+Module 2:Session 1:
+Introduction to Data Ingestion
+
+
+https://chukwa.apache.org/docs/r0.3.0/design.html
+https://en.wikipedia.org/wiki/Real-time_data
+https://www.informationweek.com/big-data/big-data-analytics/multi-structured-data-the-new-innovation-opportunity/a/d-id/1317838
+https://en.wikipedia.org/wiki/Schema_evolution
+http://comphadoop.weebly.com/
+https://avro.apache.org/
+https://blog.syncsort.com/2015/11/big-data/the-difference-between-real-time-near-real-time-and-batch-processing-in-big-data/
+https://www.grazitti.com/blog/top-10-big-data-facts-infographic/
+https://www.brandwatch.com/blog/youtube-stats/
+https://waterfordtechnologies.com/big-data-interesting-facts/
+https://www.popsci.com/scientists-can-now-sequence-whole-genome-in-26-hours/
+https://www.ndsu.edu/pubweb/~mcclean/plsc431/students99/leno.htm
+
+Pdf download:
+https://cdn.upgrad.com/UpGrad/temp/d3b3a5b1-cbb2-4861-a2d4-ddea7cb33013/Industrial+Discussion+FAQs.pdf
