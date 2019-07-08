@@ -227,3 +227,59 @@ https://www.ndsu.edu/pubweb/~mcclean/plsc431/students99/leno.htm
 
 Pdf download:
 https://cdn.upgrad.com/UpGrad/temp/d3b3a5b1-cbb2-4861-a2d4-ddea7cb33013/Industrial+Discussion+FAQs.pdf
+
+Port:
+community.hitachivantara.com
+
+Sqoop Performance Tuning Guidelines:
+https://kb.informatica.com/h2l/HowTo%20Library/1/0930-SqoopPerformanceTuningGuidelines-H2L.pdf
+
+Avro vs Sequence file:
+https://stackoverflow.com/questions/24236803/difference-between-avrodata-file-and-sequence-file-with-respect-to-apache-sqoop/24241689
+
+Data Compression in hadoop:
+http://comphadoop.weebly.com/
+
+https://docs.google.com/document/d/1ivHWRzahvqrvBDZbbrgF7CAOBCT11yER8BsPO8Bl9q0/edit
+
+Sqoop performance Tuning:
+https://community.hortonworks.com/articles/70258/sqoop-performance-tuning.html
+
+Hadoop big data Journal:
+https://hadoopjournal.wordpress.com/2017/08/15/export-data-using-sqoop/
+
+https://blog.cloudera.com/blog/2011/06/biodiversity-indexing-migration-from-mysql-to-hadoop/
+https://sqoop.apache.org/docs/1.4.6/SqoopUserGuide.html#_data_connector_for_oracle_and_hadoop
+
+Change password in Sqoop:
+http://dwgeek.com/sqoop-command-with-secure-password.html/
+
+Sqoop import multiple tables:
+https://stackoverflow.com/questions/17194232/sqoop-import-multiple-tables
+
+https://diveintohadoop.wordpress.com/2015/05/12/incremental-append-and-lastmodified-in-sqoop/
+
+Sqoop export:
+https://sqoop.apache.org/docs/1.4.6/SqoopUserGuide.html#_literal_sqoop_export_literal
+
+Enron data:
+http://www.ahschulz.de/enron-email-data/
+http://www.cs.cmu.edu/~enron/
+
+Chukwa:
+http://www.cs.cmu.edu/~enron/
+
+https://en.wikipedia.org/wiki/Real-time_data
+https://www.informationweek.com/big-data/big-data-analytics/multi-structured-data-the-new-innovation-opportunity/a/d-id/1317838
+
+Hadoop file formats:
+https://community.hitachivantara.com/community/products-and-solutions/pentaho/blog/2017/11/07/hadoop-file-formats-its-not-just-csv-anymore
+https://avro.apache.org/
+
+https://blog.syncsort.com/2015/11/big-data/the-difference-between-real-time-near-real-time-and-batch-processing-in-big-data/
+
+https://www.grazitti.com/blog/top-10-big-data-facts-infographic/
+https://www.brandwatch.com/blog/youtube-stats/
+https://waterfordtechnologies.com/big-data-interesting-facts/
+https://www.popsci.com/scientists-can-now-sequence-whole-genome-in-26-hours/
+https://www.ndsu.edu/pubweb/~mcclean/plsc431/students99/leno.htm
