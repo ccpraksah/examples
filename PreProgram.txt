@@ -290,3 +290,21 @@ https://www.brandwatch.com/blog/youtube-stats/
 https://waterfordtechnologies.com/big-data-interesting-facts/
 https://www.popsci.com/scientists-can-now-sequence-whole-genome-in-26-hours/
 https://www.ndsu.edu/pubweb/~mcclean/plsc431/students99/leno.htm
+------------------------------------------------------------------
+Apache Hive Basics:
+---------------------------------------------------------------------
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Joins
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Select
+https://blog.cloudera.com/blog/2012/12/how-to-use-a-serde-in-apache-hive/
+https://cwiki.apache.org/confluence/display/Hive/DeveloperGuide#DeveloperGuide-HiveSerDe
+https://blog.cloudera.com/blog/2012/12/how-to-use-a-serde-in-apache-hive/
+http://gethue.com/
+https://www.quora.com/Difference-between-Hive-internal-tables-and-external-tables
+http://hadooptutorial.info/hive-vs-rdbms/
+https://community.hortonworks.com/questions/23797/how-the-hive-metastore-works.html
+https://www.quora.com/What-is-Thrift-Server-in-Apache-Hive-and-how-does-it-work
+https://cwiki.apache.org/confluence/display/Hive/Design
+http://infolab.stanford.edu/~ragho/hive-icde2010.pdf
+https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions
+https://www.slideshare.net/Hadoop_Summit/transactional-sql-in-apache-hive
+http://whatsbuzzingapachehive.blogspot.com/2016/02/apache-hives-pros-and-cons.html
