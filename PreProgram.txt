@@ -308,3 +308,19 @@ http://infolab.stanford.edu/~ragho/hive-icde2010.pdf
 https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions
 https://www.slideshare.net/Hadoop_Summit/transactional-sql-in-apache-hive
 http://whatsbuzzingapachehive.blogspot.com/2016/02/apache-hives-pros-and-cons.html
+26th July 2019:
+https://en.wikipedia.org/wiki/Hash_function
+https://community.cloudera.com/t5/Batch-SQL-Apache-Hive/what-is-the-difference-between-partition-Static-and-Dynamic/td-p/21028
+https://martin.atlassian.net/wiki/spaces/lestermartin/pages/19431488/Hive+Cheat+Sheet
+https://stackoverflow.com/questions/19128940/what-is-the-difference-between-partitioning-and-bucketing-a-table-in-hive
+https://cwiki.apache.org/confluence/display/Hive/Subqueries+in+SELECT
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+SubQueries
+https://www.slideshare.net/Hadoop_Summit/transactional-sql-in-apache-hive
+https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions
+http://whatsbuzzingapachehive.blogspot.com/2016/02/apache-hives-pros-and-cons.html
+https://www.quora.com/What-is-Thrift-Server-in-Apache-Hive-and-how-does-it-work
+https://cwiki.apache.org/confluence/display/Hive/Design
+https://community.hortonworks.com/questions/23797/how-the-hive-metastore-works.html
+http://hadooptutorial.info/hive-vs-rdbms/
+https://www.quora.com/Difference-between-Hive-internal-tables-and-external-tables
+http://gethue.com/
