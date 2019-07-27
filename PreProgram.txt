@@ -316,6 +316,7 @@ https://stackoverflow.com/questions/19128940/what-is-the-difference-between-part
 https://cwiki.apache.org/confluence/display/Hive/Subqueries+in+SELECT
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual+SubQueries
 https://www.slideshare.net/Hadoop_Summit/transactional-sql-in-apache-hive
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF#LanguageManualUDF-Built-inFunctions
 https://cwiki.apache.org/confluence/display/Hive/Hive+Transactions
 http://whatsbuzzingapachehive.blogspot.com/2016/02/apache-hives-pros-and-cons.html
 https://www.quora.com/What-is-Thrift-Server-in-Apache-Hive-and-how-does-it-work
