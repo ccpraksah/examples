@@ -325,3 +325,10 @@ https://community.hortonworks.com/questions/23797/how-the-hive-metastore-works.h
 http://hadooptutorial.info/hive-vs-rdbms/
 https://www.quora.com/Difference-between-Hive-internal-tables-and-external-tables
 http://gethue.com/
+https://gist.github.com/umbertogriffo/a512baaf63ce0797e175
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+UDF
+https://stackoverflow.com/questions/18193253/what-exactly-is-an-n-gram
+https://cwiki.apache.org/confluence/display/Hive/StatisticsAndDataMining
+https://www.surveysystem.com/correlation.htm
+https://cwiki.apache.org/confluence/display/Hive/StatisticsAndDataMining
+https://gist.github.com/umbertogriffo/a512baaf63ce0797e175
