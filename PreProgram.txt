@@ -337,3 +337,15 @@ Hbase:
 https://www.youtube.com/watch?v=9bZkp7q19f0
 https://www.bbc.com/news/world-asia-30288542
 https://stackoverflow.com/questions/10026816/which-database-does-youtube-use-at-the-moment
+
+https://www.cloudera.com/documentation/enterprise/5-5-x/topics/admin_hbase_filtering.html
+https://stackoverflow.com/questions/32343770/what-is-the-use-of-disable-operation-in-hbase
+https://www.geeksforgeeks.org/binary-search/
+https://dzone.com/articles/understanding-the-cap-theorem
+https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+https://blog.cloudera.com/blog/2016/05/apache-hbase-is-everywhere/
+https://www.youtube.com/watch?v=RanO5l8PESU
+https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+https://stackoverflow.com/questions/21248903/how-does-hbase-enable-random-access-to-hdfs
+https://dzone.com/articles/row-store-and-column-store-databases
+https://www.guru99.com/hbase-shell-general-commands.html
