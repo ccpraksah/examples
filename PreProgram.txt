@@ -332,3 +332,8 @@ https://cwiki.apache.org/confluence/display/Hive/StatisticsAndDataMining
 https://www.surveysystem.com/correlation.htm
 https://cwiki.apache.org/confluence/display/Hive/StatisticsAndDataMining
 https://gist.github.com/umbertogriffo/a512baaf63ce0797e175
+-----------------------------------------------------------------------------------
+Hbase:
+https://www.youtube.com/watch?v=9bZkp7q19f0
+https://www.bbc.com/news/world-asia-30288542
+https://stackoverflow.com/questions/10026816/which-database-does-youtube-use-at-the-moment
