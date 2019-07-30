@@ -349,3 +349,12 @@ https://static.googleusercontent.com/media/research.google.com/en//archive/bigta
 https://stackoverflow.com/questions/21248903/how-does-hbase-enable-random-access-to-hdfs
 https://dzone.com/articles/row-store-and-column-store-databases
 https://www.guru99.com/hbase-shell-general-commands.html
+
+http://www.larsgeorge.com/2009/11/hbase-vs-bigtable-comparison.html
+http://dwgeek.com/hbase-auto-sharding-concept-explanation.html/
+https://princetonits.com/how-to-configure-replication-factor-and-block-size-for-hdfs/
+https://www.youtube.com/watch?v=9CREwiemvT0
+http://www.larsgeorge.com/2010/01/hbase-architecture-101-write-ahead-log.html
+https://www.linkedin.com/pulse/bloom-filters-hbase-kuldeep-deshpande/
+https://blog.cloudera.com/blog/2013/12/what-are-hbase-compactions/
+
