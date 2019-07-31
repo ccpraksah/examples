@@ -364,5 +364,11 @@ http://archive.cloudera.com/cdh5/cdh/5/hbase-0.98.6-cdh5.3.8/book/rowkey.design.
 http://www.hadoopinsight.com/blog/what-is/hbase-use-cases/
 http://highscalability.com/blog/2010/11/16/facebooks-new-real-time-messaging-system-hbase-to-store-135.html
 http://dwgeek.com/hbase-auto-sharding-concept-explanation.html/
-
-
+-------------------------------------------------------------------------------------------
+Apache Phoenix
+https://phoenix.apache.org/index.html
+https://phoenix.apache.org/who_is_using.html
+https://phoenix.apache.org/bulk_dataload.html
+https://www.youtube.com/watch?v=-qCCMuWYpls
+https://www.quora.com/How-is-Apache-Phoenix-different-from-Hive-Hbase-integration
+https://stackoverflow.com/questions/28360888/apache-phoenix-vs-hbase-native-api
