@@ -459,5 +459,14 @@ https://www.dummies.com/programming/big-data/data-science/how-to-use-data-stream
 https://dzone.com/articles/how-does-a-recommendation-engine-work
 https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine
 https://www.quora.com/What-are-the-differences-between-batch-processing-and-stream-processing-systems/answer/Sean-Owen?share=4bd9d483&srid=nDKq
-
+https://flume.apache.org/FlumeUserGuide.html#flume-interceptors
+http://flume.apache.org/FlumeUserGuide.html#file-channel
+http://flume.apache.org/FlumeUserGuide.html#memory-channel
+https://stackoverflow.com/questions/20189437/flume-is-truncating-characters-when-i-use-the-source-type-as-logger-it-just-s
+http://flume.apache.org/FlumeUserGuide.html#configuring-a-multi-agent-flow
+https://en.wikipedia.org/wiki/Netcat
+http://ravi-bhide.blogspot.com/2011/04/flajolet-martin-algorithm.html
+https://en.m.wikipedia.org/wiki/Flajolet%E2%80%93Martin_algorithm
+http://dimacs.rutgers.edu/~graham/pubs/papers/cmsoft.pdf
+=================================
 
