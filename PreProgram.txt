@@ -491,3 +491,17 @@ https://www.elastic.co/products/kibana
 https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-list-indices.html
 https://docs.confluent.io/current/connect/userguide.html#standalone-mode
 https://docs.confluent.io/current/connect/index.html
+===========================================================================================
+storm:
+https://drive.google.com/drive/folders/14gHvoj6cKSaajmJPeY0R4jiLm3xoJovF
+https://github.com/jfmwz/storm-example/blob/master/Chapter01/src/main/java/storm/blueprints/chapter1/v1/SentenceSpout.java
+http://storm.apache.org/talksAndVideos.html
+http://storm.apache.org/Powered-By.html
+http://storm.apache.org/releases/2.0.0-SNAPSHOT/storm-hdfs.html
+https://kitmenke.com/blog/2015/06/22/getting-started-with-storm-logging/
+https://www.programcreek.com/java-api-examples/index.php?api=storm.kafka.bolt.KafkaBolt
+https://github.com/apache/storm/blob/1.x-branch/docs/storm-kafka-client.md
+https://bryantsai.com/fault-tolerant-message-processing-in-storm-6b57fd303512
+https://stackoverflow.com/questions/23760801/what-are-the-reasons-to-configure-more-than-one-worker-per-cluster-node-in-apach
+https://community.cloudera.com/t5/Community-Articles/Apache-Storm-Topology-Tuning-Approach/ta-p/247850
+https://docs.cloudera.com/HDPDocuments/HDP2/HDP-2.6.3/bk_storm-component-guide/content/ch_storm-topology-debugging.html
