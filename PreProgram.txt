@@ -474,3 +474,20 @@ https://brightplanet.com/2013/06/25/twitter-firehose-vs-twitter-api-whats-the-di
 
 =================================
 
+Kafka:
+https://kafka.apache.org/documentation/#consumerconfigs
+https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/consumer/KafkaConsumer
+https://github.com/jainsourabh2/kafka-tutorials/blob/master/KafkaProducer/KafkaProducer/pom.xml
+https://kafka.apache.org/documentation/#producerconfigs
+https://kafka.apache.org/0100/javadoc/index.html?org/apache/kafka/clients/producer/KafkaProducer.html
+https://kafka.apache.org/intro
+https://elang2.github.io/myblog/posts/2017-09-20-Kafak-And-Zookeeper-Offsets.html
+https://docs.confluent.io/current/quickstart/cos-quickstart.html#cos-quickstart
+https://github.com/Eneco/kafka-connect-twitter
+https://docs.confluent.io/current/connect/userguide.html#distributed-mode
+https://docs.confluent.io/current/quickstart/cos-quickstart.html#cos-quickstart
+https://www.elastic.co/products/elasticsearch
+https://www.elastic.co/products/kibana
+https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-list-indices.html
+https://docs.confluent.io/current/connect/userguide.html#standalone-mode
+https://docs.confluent.io/current/connect/index.html
