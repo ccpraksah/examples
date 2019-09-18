@@ -505,3 +505,8 @@ https://bryantsai.com/fault-tolerant-message-processing-in-storm-6b57fd303512
 https://stackoverflow.com/questions/23760801/what-are-the-reasons-to-configure-more-than-one-worker-per-cluster-node-in-apach
 https://community.cloudera.com/t5/Community-Articles/Apache-Storm-Topology-Tuning-Approach/ta-p/247850
 https://docs.cloudera.com/HDPDocuments/HDP2/HDP-2.6.3/bk_storm-component-guide/content/ch_storm-topology-debugging.html
+===================================================================================================
+Spark Streaming:
+https://people.apache.org/~pwendell/spark-nightly/spark-master-docs/latest/api/java/index.html
+https://drive.google.com/file/d/15YVr9zw-gJCy2EypmJSQp70kfp6eRUsl/view
+https://drive.google.com/drive/folders/1x3bw9swfPK7rBwhWjIGOEmmoFJgznqQR
